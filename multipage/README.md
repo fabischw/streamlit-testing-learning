@@ -1,0 +1,1 @@
+### NOTE: any files in the folder RESOURCES are under copyright
